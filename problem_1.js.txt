@@ -1,0 +1,3 @@
+let a = "Welcome to Git";
+
+console.log(a);
